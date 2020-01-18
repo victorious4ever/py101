@@ -1,1 +1,1 @@
-# py101
+Constantine Mogoreanu's python learning tutorial.
