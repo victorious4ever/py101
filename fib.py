@@ -1,4 +1,4 @@
-def fib(n):
+';]/.:Ldef fib(n):
     y = 1
     x = 1
     i = 1

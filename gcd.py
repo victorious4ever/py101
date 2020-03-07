@@ -9,5 +9,5 @@ def gcd(a, b):
 
 i = 2
 while i < 20:
-    print ("gcd(", 78, ", ", i, "), gcd(78, i))
+    print ("gcd(", 78, ", ", i, ") = ", gcd(78, i))
     i = i + 1

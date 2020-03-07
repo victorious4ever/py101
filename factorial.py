@@ -7,6 +7,5 @@ def factorial(n):
         i = i + 1
     return x
 
-mogo = 6
-print(factorial(mogo))
+ vb
 #n = factorial(5)
